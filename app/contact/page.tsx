@@ -125,7 +125,7 @@ const ContactPage = () => {
                         type="text"
                         required
                         className="py-3 px-4 block w-full shadow-sm focus:ring-blue-500 focus:border-blue-500 border-gray-300 rounded-md"
-                        placeholder="John Doe"
+                        placeholder="Your Name"
                       />
                     </div>
                   </div>
@@ -141,7 +141,7 @@ const ContactPage = () => {
                         type="email"
                         required
                         className="py-3 px-4 block w-full shadow-sm focus:ring-blue-500 focus:border-blue-500 border-gray-300 rounded-md"
-                        placeholder="you@example.com"
+                        placeholder="your Email"
                       />
                     </div>
                   </div>
