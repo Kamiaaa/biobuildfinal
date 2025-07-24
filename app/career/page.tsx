@@ -149,7 +149,7 @@ export default function CareerPage() {
       {/* CTA */}
       <section className="px-4 py-20 bg-gradient-to-r from-[#7AA859] to-green-700 text-white text-center">
         <div className="max-w-4xl mx-auto">
-          <h2 className="text-3xl font-extrabold mb-6">Ready to Build Something Great?</h2>
+          <h2 className="text-3xl font-poppins mb-6">Ready to Build Something Great?</h2>
           <p className="max-w-2xl mx-auto mb-8 text-xl text-gray-100">
             We're looking for talented professionals to help shape the future of real estate development.
           </p>
