@@ -90,7 +90,7 @@ const ContactPage = () => {
                     <div className="ml-4">
                       <h3 className="text-sm font-medium text-blue-100">Office</h3>
                       <p className="text-base">House: 05, Road 20, Sector 13<br />Uttara, Dhaka-1230
-                        Bangladesh</p>
+                        Bangladesh.</p>
                     </div>
                   </div>
                 </div>
