@@ -23,7 +23,7 @@ const ContactPage = () => {
               Let's Connect
             </h1>
             <p className="mt-6 text-xl text-blue-100 max-w-2xl mx-auto">
-              We'd love to hear from you! Whether you have a question about our services, 
+              We'd love to hear from you! Whether you have a question about our services,
               projects, or just want to say hi, our team is ready to answer all your questions.
             </p>
             <div className="mt-10 flex justify-center">
@@ -69,7 +69,7 @@ const ContactPage = () => {
                     </div>
                     <div className="ml-4">
                       <h3 className="text-sm font-medium text-blue-100">Email</h3>
-                      <p className="text-base">contact@example.com</p>
+                      <p className="text-base">info@biobuildbd.com</p>
                     </div>
                   </div>
 
@@ -79,7 +79,7 @@ const ContactPage = () => {
                     </div>
                     <div className="ml-4">
                       <h3 className="text-sm font-medium text-blue-100">Phone</h3>
-                      <p className="text-base">+1 (555) 123-4567</p>
+                      <p className="text-base">+88017 51 51 12 12</p>
                     </div>
                   </div>
 
@@ -89,7 +89,8 @@ const ContactPage = () => {
                     </div>
                     <div className="ml-4">
                       <h3 className="text-sm font-medium text-blue-100">Office</h3>
-                      <p className="text-base">123 Business Ave, Suite 456<br />San Francisco, CA 94107</p>
+                      <p className="text-base">House: 05, Road 20, Sector 13<br />Uttara, Dhaka-1230
+                        Bangladesh</p>
                     </div>
                   </div>
                 </div>
@@ -97,7 +98,7 @@ const ContactPage = () => {
                 <div className="mt-12">
                   <h3 className="text-sm font-medium text-blue-100 mb-4">Follow us</h3>
                   <div className="flex space-x-4">
-                    <a href="#" className="text-white hover:text-blue-200 transition-colors">
+                    <a href="linkedin.com/company/biobuildbd" className="text-white hover:text-blue-200 transition-colors">
                       <FaLinkedin className="h-6 w-6" />
                     </a>
                     <a href="#" className="text-white hover:text-blue-200 transition-colors">
