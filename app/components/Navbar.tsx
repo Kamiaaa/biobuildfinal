@@ -137,7 +137,7 @@ export default function Navbar() {
                   <div className="mt-2 ml-4 space-y-2">
                     <Link href="/about/company" className="block text-xl text-gray-700 hover:text-[#7AA859]">Company</Link>
                     <Link href="/about/team" className="block text-xl text-gray-700 hover:text-[#7AA859]">Team</Link>
-                    <Link href="/about/mission" className="block text-xl text-gray-700 hover:text-[#7AA859]">Mission</Link>
+                    <Link href="/mission-vision" className="block text-xl text-gray-700 hover:text-[#7AA859]">Mission</Link>
                   </div>
                 )}
               </div>
@@ -214,7 +214,7 @@ export default function Navbar() {
                 <div className="mt-2 ml-4 space-y-2">
                   <Link href="/about/company" className="block text-lg text-gray-700 hover:text-[#7AA859]">Company</Link>
                   <Link href="/about/team" className="block text-lg text-gray-700 hover:text-[#7AA859]">Team</Link>
-                  <Link href="/about/mission" className="block text-lg text-gray-700 hover:text-[#7AA859]">Mission</Link>
+                  <Link href="/mission-vision" className="block text-lg text-gray-700 hover:text-[#7AA859]">Mission</Link>
                 </div>
               )}
             </div>
